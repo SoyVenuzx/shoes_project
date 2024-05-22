@@ -47,7 +47,7 @@ class TTexts {
   static const String loginTitle = "Bienvenido de vuelta,";
   static const String loginSubTitle =
       "Descubra opciones ilimitadas y una comodidad inigualable.";
-  static const String signupTitle = "Let’s create your account";
+  static const String signupTitle = "Empecemos a crear tu cuenta";
   static const String forgetPasswordTitle = "Forget password";
   static const String forgetPasswordSubTitle =
       "Don’t worry sometimes people can forget too, enter your email and we will send you a password reset link.";
