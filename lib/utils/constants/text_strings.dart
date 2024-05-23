@@ -69,5 +69,5 @@ class TTexts {
 
   // -- Home
   static const String homeAppbarTitle = "Buen día para ordenar!";
-  static const String homeAppbarSubTitle = "Ervin Álvarez";
+  static const String homeAppbarSubTitle = "Shoouttoys";
 }
