@@ -3,7 +3,6 @@ import 'package:shoes_project/common/widgets/custom_shapes/containers/rounded_co
 import 'package:shoes_project/common/widgets/images/t_circular_image.dart';
 import 'package:shoes_project/common/widgets/texts/product_title_text.dart';
 import 'package:shoes_project/common/widgets/texts/producto_price_text.dart';
-import 'package:shoes_project/common/widgets/texts/t_brand_title_text.dart';
 import 'package:shoes_project/common/widgets/texts/t_brand_title_text_with_verified_icon.dart';
 import 'package:shoes_project/utils/constants/colors.dart';
 import 'package:shoes_project/utils/constants/enums.dart';

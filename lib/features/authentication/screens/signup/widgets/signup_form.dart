@@ -3,7 +3,6 @@ import 'package:iconsax/iconsax.dart';
 import 'package:shoes_project/features/authentication/screens/signup/widgets/term_conditions_checkbox.dart';
 import 'package:shoes_project/utils/constants/sizes.dart';
 import 'package:shoes_project/utils/constants/text_strings.dart';
-import 'package:shoes_project/utils/helpers/helper_functions.dart';
 
 class TSignupForm extends StatelessWidget {
   const TSignupForm({

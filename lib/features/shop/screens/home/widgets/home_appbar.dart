@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:shoes_project/common/widgets/appbar/appbar.dart';
 import 'package:shoes_project/common/widgets/products/cart/cart_menu_icon.dart';
 import 'package:shoes_project/utils/constants/colors.dart';
-import 'package:shoes_project/utils/constants/sizes.dart';
 import 'package:shoes_project/utils/constants/text_strings.dart';
 
 class THomeAppBar extends StatelessWidget {

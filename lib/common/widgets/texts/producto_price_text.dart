@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:shoes_project/utils/helpers/helper_functions.dart';
 
 class TProductPriceText extends StatelessWidget {
   const TProductPriceText({

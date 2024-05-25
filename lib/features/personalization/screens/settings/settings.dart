@@ -2,12 +2,10 @@ import 'package:flutter/material.dart';
 import 'package:iconsax/iconsax.dart';
 import 'package:shoes_project/common/widgets/appbar/appbar.dart';
 import 'package:shoes_project/common/widgets/custom_shapes/containers/primary_header_container.dart';
-import 'package:shoes_project/common/widgets/images/t_circular_image.dart';
 import 'package:shoes_project/common/widgets/list_tiles/settings_menu_tile.dart';
 import 'package:shoes_project/common/widgets/list_tiles/user_profile_tile.dart';
 import 'package:shoes_project/common/widgets/texts/section_heading.dart';
 import 'package:shoes_project/utils/constants/colors.dart';
-import 'package:shoes_project/utils/constants/image_strings.dart';
 import 'package:shoes_project/utils/constants/sizes.dart';
 
 class SettingsScreen extends StatelessWidget {
